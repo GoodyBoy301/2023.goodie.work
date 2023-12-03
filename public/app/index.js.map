@@ -1,0 +1,1 @@
+{"version":3,"sources":["app/index.js"],"names":["module","hot","accept","console","log"],"mappings":"AAAA,IAAIA,MAAM,CAACC,GAAG,EAAE;EACdD,MAAM,CAACC,GAAG,CAACC,MAAM,CAAC,CAAC;AACrB;AAEAC,OAAO,CAACC,GAAG,CAAC,YAAY,CAAC","file":"index.js","sourceRoot":"..","sourcesContent":["if (module.hot) {\n  module.hot.accept()\n}\n\nconsole.log(\"Ezeboyyyfy\")\n"]}
