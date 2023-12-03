@@ -9,6 +9,7 @@ const file = ["app/index.js", "styles/index.scss"]
 const options = {
   outDir: "./public",
   publicUrl: "/cdn",
+  production: process.env.NODE_ENV === "production",
 }
 const bundler = new Bundler(file, options)
 
